@@ -5,24 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d9943a8-47e4-4577-8784-c8306a32eee8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/BMI Calculator/BMI Calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpperCase/Uppercase(2).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpperCase/Uppercase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code Concatenation/concatenation.js" beforeDir="false" afterPath="$PROJECT_DIR$/Code Concatenation/concatenation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/tweet.js" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/tweet.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="def1ca34-3e0e-4dfe-acb4-a09845af1eef" />
+        <option name="url" value="https://github.com/JaynouOliver/Javascript.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="24sZpfxSa5aw3LBqqrwlo2tXtWG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,19 +53,30 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code Concatenation/concatenation.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Program Files/nodejs/node.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../../Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="concatenation.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../../../../../Program Files/nodejs/node" nameIsGenerated="true" node-parameters="$FileDirRelativeToProjectRoot$" path-to-js-file="Code Concatenation/concatenation.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.Uppercase.js">
+    <configuration name="Uppercase.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/UpperCase/Uppercase.js" working-dir="$PROJECT_DIR$/UpperCase">
+      <method v="2" />
+    </configuration>
+    <configuration name="concatenation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Code Concatenation/concatenation.js" working-dir="$PROJECT_DIR$/Code Concatenation">
+      <method v="2" />
+    </configuration>
+    <configuration name="tweet.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tweet/tweet.js" working-dir="$PROJECT_DIR$/tweet">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Uppercase.js" />
+        <item itemvalue="Node.js.tweet.js" />
         <item itemvalue="Node.js.concatenation.js" />
       </list>
     </recent_temporary>
@@ -58,10 +91,27 @@
       <updated>1644421445059</updated>
       <workItem from="1644421445059" duration="66000" />
       <workItem from="1644421514310" duration="1379000" />
+      <workItem from="1644426379535" duration="2071000" />
+      <workItem from="1644428493691" duration="2512000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
