@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8095590c-85c9-4cd0-979c-19efdb866173" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11_ DOM in Js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_ DOM in Js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_ DOM in Js/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrarys and Functions/Adding Elements and Intermediate Techniques.js" beforeDir="false" afterPath="$PROJECT_DIR$/09_Arrarys and Functions/Adding Elements and Intermediate Techniques.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrarys and Functions/Arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/09_Arrarys and Functions/Arrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrarys and Functions/WhosPayingForLunch.js" beforeDir="false" afterPath="$PROJECT_DIR$/09_Arrarys and Functions/WhosPayingForLunch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMI Calculator/BMI Calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/05_BMI Calculator/BMI Calculator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code Concatenation/concatenation.js" beforeDir="false" afterPath="$PROJECT_DIR$/02.2_Code Concatenation/concatenation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code Concatenation/stringSlicing.js" beforeDir="false" afterPath="$PROJECT_DIR$/02.2_Code Concatenation/stringSlicing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonnaci Code Challenge/Fibonnaci Code Challenge.js" beforeDir="false" afterPath="$PROJECT_DIR$/10_Fibonnaci Code Challenge/Fibonnaci Code Challenge.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/For Loops/For Loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/08_For Loops/For Loop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_Intermediate/If else statements.js" beforeDir="false" afterPath="$PROJECT_DIR$/02_JS_Intermediate/If else statements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leap Year Code/Leap Year Code.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_Leap Year Code/Leap Year Code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UpperCase/Uppercase(2).js" beforeDir="false" afterPath="$PROJECT_DIR$/06_UpperCase/Uppercase(2).js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UpperCase/Uppercase.js" beforeDir="false" afterPath="$PROJECT_DIR$/06_UpperCase/Uppercase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/While Loops/While Loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/07_While Loops/While Loop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/js_01.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js/js_01.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js/variables.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/tweet.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_tweet/tweet.js" afterDir="false" />
-    </list>
+    <list default="true" id="8095590c-85c9-4cd0-979c-19efdb866173" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -107,6 +85,7 @@
       <updated>1644471039566</updated>
       <workItem from="1644471043305" duration="3198000" />
       <workItem from="1644475421908" duration="3386000" />
+      <workItem from="1644502986052" duration="234000" />
     </task>
     <servers />
   </component>
