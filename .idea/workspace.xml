@@ -5,7 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8095590c-85c9-4cd0-979c-19efdb866173" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/images/crash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/images/kick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/images/snare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/images/tom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/images/tom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/images/tom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/images/tom4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/sounds/crash.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/sounds/kick-bass.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/sounds/snare.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/sounds/tom-1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/sounds/tom-2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/sounds/tom-3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/sounds/tom-4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/images/crash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/images/kick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/images/snare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/images/tom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/images/tom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/images/tom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/images/tom4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/sounds/crash.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/sounds/kick-bass.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/sounds/snare.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/sounds/tom-1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/sounds/tom-2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/sounds/tom-3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/sounds/tom-4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11-02-2022_12_06_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11-02-2022_12_06_AM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +60,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Dice-Game" />
+        <entry key="$PROJECT_DIR$" value="advanced-dom" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,7 +74,9 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Advanced DOM/Drum Kit Completed/index.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/11_ DOM in Js/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Advanced DOM/Drum Kit Starting Files/index.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,7 +102,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="settings.editor.selected.configurable" value="AtomConfig" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReaderModeSettings">
@@ -101,6 +138,14 @@
       <workItem from="1644475421908" duration="3386000" />
       <workItem from="1644502986052" duration="234000" />
       <workItem from="1644505499654" duration="2999000" />
+      <workItem from="1644593407599" duration="1847000" />
+      <workItem from="1644668361970" duration="4292000" />
+      <workItem from="1644674769563" duration="1674000" />
+      <workItem from="1644676871272" duration="271000" />
+      <workItem from="1644677158836" duration="18000" />
+      <workItem from="1644677195028" duration="43000" />
+      <workItem from="1644677254057" duration="4739000" />
+      <workItem from="1644691937520" duration="250000" />
     </task>
     <servers />
   </component>
