@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.big-title{
+    font-size: 10rem;
+    color: rgb(0, 255, 149);
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.margin{
+    margin: 50px;
+}
