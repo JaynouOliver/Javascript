@@ -17,9 +17,9 @@ app.post("/", function (req, res) {
   // console.log(req.body.cityName) // this command bring the data given in the form by the user. Here is .cityName is the name of the input tag;
 
   const query = req.body.cityName;
-  const apikey = "47092f93200d7c38f015439c8878b62b";
+  const apikey = "47092f93200d7c38f01548b62b"; // this won't work because exposing original api key publicly is not a good practice. // paste your own api key to use it.
   const unit = "metric";
-  const url = "https://api.openweathermap.org/data/2.5/weather?q=London&appid=47092f93200d7c38f015439c8878b62b&units=metric#";
+  const url = "https://api.openweathermap.org/data/2.5/weather?q=London&appid=47092f938f018878b62b&units=metric#";
 
   https.get(url, function (response) {
     console.log(response.statusCode);
