@@ -19,7 +19,7 @@ app.post("/", function (req, res) {
   const query = req.body.cityName;
   const apikey = "47092f93200d7c38f01548b62b"; // this won't work because exposing original api key publicly is not a good practice. // paste your own api key to use it.
   const unit = "metric";
-  const url = "https://api.openweathermap.org/data/2.5/weather?q=London&appid=47092f93200d7c38f018878b62b&units=metric#";
+  const url = "https://api.openweathermap.org/data/2.5/weather?q=London&appid=47092f938f018878b62b&units=metric#";
 
   https.get(url, function (response) {
     console.log(response.statusCode);
